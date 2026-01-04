@@ -271,6 +271,19 @@
 				)
 			)
 		)
+		(property "MPN" "C4410"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "47aff1c8-1d90-4fea-8928-a6e153a2d736")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/78f02a09-88b8-4222-9c2e-ba7594b955f8")
 		(sheetname "Root")
@@ -485,11 +498,24 @@
 				)
 			)
 		)
+		(property "MPN" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e53fb85f-a307-47e4-a2d0-99f92fc5abd9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "TerminalBlock*:*")
 		(path "/68dd08e2-288a-4253-b189-5b8c2e578daf")
 		(sheetname "Root")
 		(sheetfile "PCB_NeoPixel_Booster.kicad_sch")
-		(attr through_hole)
+		(attr through_hole dnp)
 		(fp_line
 			(start -2.54 3.81)
 			(end 7.62 3.81)
@@ -743,11 +769,24 @@
 				)
 			)
 		)
+		(property "MPN" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "022d381f-98c0-4cf5-896c-6a371f7b2fbe")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "BarrelJack*")
 		(path "/2a6e1301-1154-49ca-93b9-094f8b59e010")
 		(sheetname "Root")
 		(sheetfile "PCB_NeoPixel_Booster.kicad_sch")
-		(attr through_hole)
+		(attr through_hole dnp)
 		(fp_line
 			(start -5 4.6)
 			(end -9.75 4.6)
@@ -1240,6 +1279,19 @@
 				)
 			)
 		)
+		(property "MPN" "C4410"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "710f388f-a4b0-497d-9b21-eab5daf4035b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/7f0fa30e-a538-4d37-ba8e-a805950cbb72")
 		(sheetname "Root")
@@ -1565,11 +1617,24 @@
 				)
 			)
 		)
+		(property "MPN" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c0d4ddd4-7429-466a-8c9c-99552257a2c8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "TerminalBlock*:*")
 		(path "/df7b9b7c-5ba8-4ad6-8936-9f825afebae4")
 		(sheetname "Root")
 		(sheetfile "PCB_NeoPixel_Booster.kicad_sch")
-		(attr through_hole)
+		(attr through_hole dnp)
 		(fp_line
 			(start 7.62 -3.81)
 			(end -2.54 -3.81)
@@ -1823,11 +1888,24 @@
 				)
 			)
 		)
+		(property "MPN" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7044be44-0f1e-4aab-aa63-96b22d11817e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/bd1b3dec-f65d-48df-a7f9-159f02bff661")
 		(sheetname "Root")
 		(sheetfile "PCB_NeoPixel_Booster.kicad_sch")
-		(attr through_hole)
+		(attr through_hole dnp)
 		(fp_line
 			(start -1.33 -1.33)
 			(end 0 -1.33)
@@ -2213,6 +2291,19 @@
 				)
 			)
 		)
+		(property "MPN" "C4410"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "eb3bd9f9-8dbd-43c2-a6a5-aaa9e2399a64")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/11f05e19-01d6-4e2e-bb5b-71ce82adf469")
 		(sheetname "Root")
@@ -2427,11 +2518,24 @@
 				)
 			)
 		)
+		(property "MPN" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fcfe2b5c-78f2-483e-91da-6a75749fe7c1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/e8454be0-5794-4f4b-b8b1-22cc836fe9a8")
 		(sheetname "Root")
 		(sheetfile "PCB_NeoPixel_Booster.kicad_sch")
-		(attr through_hole)
+		(attr through_hole dnp)
 		(fp_line
 			(start 1.33 1.27)
 			(end 1.33 3.87)
@@ -2695,11 +2799,24 @@
 				)
 			)
 		)
+		(property "MPN" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f9848f60-995d-4ff3-bbfd-b76a94c9708d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/03513216-5994-40a1-983d-9480663c0d33")
 		(sheetname "Root")
 		(sheetfile "PCB_NeoPixel_Booster.kicad_sch")
-		(attr through_hole)
+		(attr through_hole dnp)
 		(fp_line
 			(start -1.33 -1.33)
 			(end 0 -1.33)
@@ -2970,6 +3087,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "C347589"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2599e09e-1f97-49f5-b54a-4422093ceeb3")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -3261,11 +3391,24 @@
 				)
 			)
 		)
+		(property "MPN" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d486f290-fc04-4940-a1e2-8c05e9f074bf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/a9723bc7-cd69-4763-982c-dff9ec58b900")
 		(sheetname "Root")
 		(sheetfile "PCB_NeoPixel_Booster.kicad_sch")
-		(attr through_hole)
+		(attr through_hole dnp)
 		(fp_line
 			(start 1.33 1.27)
 			(end 1.33 3.87)
@@ -3526,11 +3669,24 @@
 				)
 			)
 		)
+		(property "MPN" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d07bae58-08b3-43c6-bc83-fc34e1d81ba4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "TerminalBlock*:*")
 		(path "/95d76735-f452-460b-a19e-a2ac77fd399e")
 		(sheetname "Root")
 		(sheetfile "PCB_NeoPixel_Booster.kicad_sch")
-		(attr through_hole)
+		(attr through_hole dnp)
 		(fp_line
 			(start -1.88 2.72)
 			(end -1.88 3.76)
@@ -3958,11 +4114,24 @@
 				)
 			)
 		)
+		(property "MPN" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0ce3b92c-56b4-4af8-ab89-7a25a80a68ad")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "TerminalBlock*:*")
 		(path "/9299acd7-b974-4c4f-9208-07e1e597b9e2")
 		(sheetname "Root")
 		(sheetfile "PCB_NeoPixel_Booster.kicad_sch")
-		(attr through_hole)
+		(attr through_hole dnp)
 		(fp_line
 			(start -2.54 1.75)
 			(end -2.54 3.81)
@@ -4207,7 +4376,6 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/c24019a9-a23d-4f12-86fb-25634c7cc1ee")
 		(sheetname "Root")
 		(sheetfile "PCB_NeoPixel_Booster.kicad_sch")
 		(attr smd)
@@ -4420,11 +4588,24 @@
 				)
 			)
 		)
+		(property "MPN" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e435abcc-cf97-41cd-9d38-66391a1b8e08")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/5a6e0a7c-b5d3-41e4-9db4-bc4fbcdb076e")
 		(sheetname "Root")
 		(sheetfile "PCB_NeoPixel_Booster.kicad_sch")
-		(attr through_hole)
+		(attr through_hole dnp)
 		(fp_line
 			(start -1.33 -1.33)
 			(end 0 -1.33)
@@ -4685,11 +4866,24 @@
 				)
 			)
 		)
+		(property "MPN" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2aa95c78-d944-44c3-a9fd-66b91da56ce0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "TerminalBlock*:*")
 		(path "/c0c4f80f-3ef2-451b-b0b0-4db69e2051dc")
 		(sheetname "Root")
 		(sheetfile "PCB_NeoPixel_Booster.kicad_sch")
-		(attr through_hole)
+		(attr through_hole dnp)
 		(fp_line
 			(start -1.88 2.72)
 			(end -1.88 3.76)
@@ -5049,6 +5243,232 @@
 			)
 		)
 	)
+	(footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+		(layer "F.Cu")
+		(uuid "efc21713-568b-431b-b0d3-ea5bd5e4b265")
+		(at 103.05 59.12)
+		(descr "Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
+		(tags "resistor handsolder")
+		(property "Reference" "R1"
+			(at 0 -1.82 0)
+			(layer "F.SilkS")
+			(uuid "86d5f0ba-55ab-4a58-beb3-befc19361122")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "1k"
+			(at 0 1.82 0)
+			(layer "F.Fab")
+			(uuid "c7185dc3-452a-4a3a-a074-192eee2823d3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7e047bed-b5f9-49fd-b9c1-7b39053b7284")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "93c38edd-290e-41ad-a0dd-02da9dea5853")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "72ff2b05-7503-4c4c-936b-55ba45937d50")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "C4410"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2879fb9b-e2ba-46b0-88ff-f8e906e673ff")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "R_*")
+		(path "/9562a327-900d-4d3b-aaa7-a50adf4db812")
+		(sheetname "Root")
+		(sheetfile "PCB_NeoPixel_Booster.kicad_sch")
+		(attr smd)
+		(fp_line
+			(start -0.727064 -0.91)
+			(end 0.727064 -0.91)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "8dbcfb45-bea5-4d23-9735-741902c65b5c")
+		)
+		(fp_line
+			(start -0.727064 0.91)
+			(end 0.727064 0.91)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "02d7e0fc-48c6-47aa-b7f1-497aa0e48b10")
+		)
+		(fp_line
+			(start -2.45 -1.12)
+			(end 2.45 -1.12)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "23756517-cfe9-459b-ba32-712270893f28")
+		)
+		(fp_line
+			(start -2.45 1.12)
+			(end -2.45 -1.12)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "48b3e240-6b1a-4d38-88f3-f368229f3429")
+		)
+		(fp_line
+			(start 2.45 -1.12)
+			(end 2.45 1.12)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "492525be-de11-442b-9d8a-bbff916dd2ea")
+		)
+		(fp_line
+			(start 2.45 1.12)
+			(end -2.45 1.12)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "7a060f50-0f69-4c89-822f-6e5667bebb4d")
+		)
+		(fp_line
+			(start -1.6 -0.8)
+			(end 1.6 -0.8)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "14ab6634-827c-4312-808c-1f5adf63d969")
+		)
+		(fp_line
+			(start -1.6 0.8)
+			(end -1.6 -0.8)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "95606e86-0ead-4162-8e5c-bc2ad3d097b8")
+		)
+		(fp_line
+			(start 1.6 -0.8)
+			(end 1.6 0.8)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "8a63cc15-02d2-4247-b2f5-dec83c91fa25")
+		)
+		(fp_line
+			(start 1.6 0.8)
+			(end -1.6 0.8)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "71c26772-a2b0-4455-9572-1f838fbf88dc")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "7e27a78a-f343-4834-a194-457984cf1072")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.12)
+				)
+			)
+		)
+		(pad "1" smd roundrect
+			(at -1.55 0)
+			(size 1.3 1.75)
+			(layers "F.Cu" "F.Paste" "F.Mask")
+			(roundrect_rratio 0.192308)
+			(net 10 "/EN")
+			(pintype "passive")
+			(uuid "07888ff7-030c-4460-9ed0-e0f37fb552e7")
+		)
+		(pad "2" smd roundrect
+			(at 1.55 0)
+			(size 1.3 1.75)
+			(layers "F.Cu" "F.Paste" "F.Mask")
+			(roundrect_rratio 0.192308)
+			(net 2 "VCC")
+			(pintype "passive")
+			(uuid "91738015-c9ec-4ab3-afbb-a162906b1c5d")
+		)
+		(model "${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1206_3216Metric.wrl"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
 	(footprint "Package_TO_SOT_SMD:SOT-23-5"
 		(layer "F.Cu")
 		(uuid "f26b9a02-f21d-4cb8-ad12-5fe5fcbd90f2")
@@ -5113,6 +5533,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "C500758"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "18f9424b-280e-4cd8-b60c-9bbe2435a41b")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -5401,6 +5834,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "C4410"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d8d4f2b4-b23b-432c-9523-91f6e64dc1d7")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -7338,7 +7784,7 @@
 				(xy 155.479815 58.399172) (xy 155.463182 58.419814) (xy 155.355732 58.527264) (xy 155.208067 58.719706)
 				(xy 155.086777 58.929785) (xy 155.086773 58.929794) (xy 154.993947 59.153895) (xy 154.931161 59.388214)
 				(xy 154.8995 59.628711) (xy 154.8995 59.871288) (xy 154.931161 60.111785) (xy 154.993947 60.346104)
-				(xy 155.072009 60.534562) (xy 155.086776 60.570212) (xy 155.208064 60.780289) (xy 155.208066 60.780292)
+				(xy 155.055829 60.495499) (xy 155.086776 60.570212) (xy 155.208064 60.780289) (xy 155.208066 60.780292)
 				(xy 155.208067 60.780293) (xy 155.355732 60.972735) (xy 155.355733 60.972736) (xy 155.355735 60.972738)
 				(xy 155.463182 61.080185) (xy 155.496666 61.141506) (xy 155.4995 61.167865) (xy 155.4995 104.332133)
 				(xy 155.479815 104.399172) (xy 155.463182 104.419814) (xy 155.355732 104.527264) (xy 155.208067 104.719706)
@@ -7752,7 +8198,7 @@
 				(xy 118.169883 73.813436) (xy 118.169882 73.813437) (xy 118.063196 73.955953) (xy 118.063191 73.955961)
 				(xy 117.926091 74.207041) (xy 117.826109 74.475104) (xy 117.7653 74.754637) (xy 117.744891 75.039998)
 				(xy 115.7505 75.039998) (xy 115.7505 59.628711) (xy 116.3995 59.628711) (xy 116.3995 59.871288)
-				(xy 116.431161 60.111785) (xy 116.493947 60.346104) (xy 116.572009 60.534562) (xy 116.586776 60.570212)
+				(xy 116.431161 60.111785) (xy 116.493947 60.346104) (xy 116.555829 60.495499) (xy 116.586776 60.570212)
 				(xy 116.708064 60.780289) (xy 116.708066 60.780292) (xy 116.708067 60.780293) (xy 116.855733 60.972736)
 				(xy 116.855739 60.972743) (xy 117.027256 61.14426) (xy 117.027263 61.144266) (xy 117.074999 61.180895)
 				(xy 117.219711 61.291936) (xy 117.429788 61.413224) (xy 117.6539 61.506054) (xy 117.888211 61.568838)
@@ -7810,7 +8256,7 @@
 				(xy 116.708067 58.719706) (xy 116.586777 58.929785) (xy 116.586773 58.929794) (xy 116.493947 59.153895)
 				(xy 116.431161 59.388214) (xy 116.3995 59.628711) (xy 115.7505 59.628711) (xy 115.7505 58.754427)
 				(xy 115.750816 58.745581) (xy 115.76513 58.545443) (xy 115.767646 58.527938) (xy 115.809356 58.336199)
-				(xy 115.814333 58.319248) (xy 115.882911 58.135385) (xy 115.890259 58.119298) (xy 115.952815 58.004734)
+				(xy 115.814333 58.319248) (xy 115.882911 58.135385) (xy 115.890259 58.119298) (xy 115.908019 58.086773)
 				(xy 115.984291 57.947089) (xy 115.993845 57.932221) (xy 116.111448 57.775123) (xy 116.12302 57.761769)
 				(xy 116.261769 57.62302) (xy 116.275123 57.611448) (xy 116.432221 57.493845) (xy 116.447089 57.484291)
 				(xy 116.619298 57.390258) (xy 116.635385 57.382911) (xy 116.819248 57.314333) (xy 116.836199 57.309356)

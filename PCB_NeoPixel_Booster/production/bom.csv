@@ -1,0 +1,12 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"J1, J11, J5",TerminalBlock_bornier-2_P5.08mm,3,Power_Input_Screw,
+"J10, J8",PinHeader_1x02_P2.54mm_Vertical,2,Power_Breakout,
+J12,PinHeader_1x03_P2.54mm_Vertical,1,REG_CONTROL,
+J2,BarrelJack_Horizontal,1,Power_Input_Barrel_Jack,
+J3,PinHeader_1x02_P2.54mm_Vertical,1,Vcc_Breakout,
+"J4, J6",TerminalBlock_Xinya_XY308-2.54-3P_1x03_P2.54mm_Horizontal,2,LED_Strip_Connector,
+J7,PinHeader_1x03_P2.54mm_Vertical,1,Data_Input,
+"R1, R2, R4, R5, R6",1206,5,1k,C4410
+R3,1206,1,500,
+U1,SOT-23-5,1,AP2210K-5.0,C500758
+U3,SOT-23-6_Handsoldering,1,74LVC2G34GW,C347589
